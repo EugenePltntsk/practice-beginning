@@ -1,0 +1,27 @@
+.link {
+    color: blue;
+    
+}
+
+.move {
+    margin-left: 150px;
+}
+
+.link-description {
+    color: rgb(107, 230, 0);
+
+}
+
+table th,
+table td {
+  padding: 10px;
+  border: 1px solid #2a2a2a;
+}
+
+table {
+    border-collapse: collapse;
+  }
+
+  .site-nav .link {
+        text-transform: uppercase;
+  }
